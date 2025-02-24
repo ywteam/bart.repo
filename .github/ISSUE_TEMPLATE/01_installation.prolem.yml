@@ -1,0 +1,18 @@
+name: "🙏🏻 Installation Problem"
+description: "Report an issue with installation"
+title: "Installation Problem"
+labels: ["type: installation"]
+body:
+  - type: markdown
+    attributes:
+      value: For installation issues, please visit our [Discord Support]({{ discord.url }}) for assistance.
+  - type: textarea
+    id: feature-description
+    validations:
+      required: true
+    attributes:
+      label: For installation issues, please visit our {{ discord.url }} for assistance.
+      description: For installation issues, please visit our [Discord Support]({{ discord.url }}) for assistance.
+      placeholder: |
+        For installation issues, please visit our {{ discord.url }} for assistance.
+        Please do not save this issue - do not submit installation issues on GitHub.
