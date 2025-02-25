@@ -1,7 +1,7 @@
 # Pricity Policy
 ## 1. Introduction
 
-This privacy policy ("Policy") and this site's Terms of Service (together the "Terms") govern all use of [ywteam.github.io](https://ywteam.github.io) and that site's services (together the "Site" or "Services"). The owners and contributors to the Site will be referred to as "we," "us," or "our" in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a "user" for purposes of this Policy. You and every other user ("you" or "User" as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word "Site" includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
+This privacy policy ("Policy") and this site's Terms of Service (together the "Terms") govern all use of [{{ .org.name }}.github.io](https://{{ .org.name }}.github.io) and that site's services (together the "Site" or "Services"). The owners and contributors to the Site will be referred to as "we," "us," or "our" in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a "user" for purposes of this Policy. You and every other user ("you" or "User" as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word "Site" includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
 
 ## 2. Information Collection
 
@@ -46,11 +46,11 @@ We take the security of your personal information very seriously. We take approp
 
 ## 5. Changes to this Policy
 
-This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at [ywteam.github.io](https://ywteam.github.io).
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at [{{ .org.name }}.github.io](https://{{ .org.name }}.github.io).
 
 ## 6. Contact Information
 
-If you have any questions or concerns about this Policy, please contact us at [ywteam.github.io](https://ywteam.github.io).
+If you have any questions or concerns about this Policy, please contact us at [{{ .org.name }}.github.io](https://{{ .org.name }}.github.io).
 
 ## 7. Effective Date
 
@@ -60,7 +60,7 @@ This Policy is effective as of 2021-09-01.
 
 ### A. What are cookies?
 
-Cookies are small text files that are stored in your web browser that allows [ywteam.github.io](https://ywteam.github.io) or a third party to recognize you. Cookies can be used to collect, store, and share bits of information about your activities across websites, including on [ywteam.github.io](https://ywteam.github.io).
+Cookies are small text files that are stored in your web browser that allows [{{ .org.name }}.github.io](https://{{ .org.name }}.github.io) or a third party to recognize you. Cookies can be used to collect, store, and share bits of information about your activities across websites, including on [{{ .org.name }}.github.io](https://{{ .org.name }}.github.io).
 
 Cookies might be used for the following purposes:
 
@@ -71,9 +71,9 @@ Cookies might be used for the following purposes:
 
 Cookies can either be session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
 
-### B. How do third parties use cookies on the [ywteam.github.io](https://ywteam.github.io) Website?
+### B. How do third parties use cookies on the [{{ .org.name }}.github.io](https://{{ .org.name }}.github.io) Website?
 
-Third-party companies like analytics companies and ad networks generally use cookies to collect user information on an anonymous basis. They may use that information to build a profile of your activities on the [ywteam.github.io](https://ywteam.github.io) Website and other websites that you've visited.
+Third-party companies like analytics companies and ad networks generally use cookies to collect user information on an anonymous basis. They may use that information to build a profile of your activities on the [{{ .org.name }}.github.io](https://{{ .org.name }}.github.io) Website and other websites that you've visited.
 
 ### C. What are your cookies options?
 
