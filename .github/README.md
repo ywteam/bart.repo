@@ -47,9 +47,15 @@ git commit -m "Update the template"
 git push
 ```
 
-### [Create a repository from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+### [Create a repository from a template](https://github.com/new?name=&visibility=public&description=by%20bart&template_owner=ywteam&template_name=bart.repo)
+- Click on the link below to create a new repository from the template.
+- [https://github.com/new?name=&visibility=public&description=by%20bart&template_owner=ywteam&template_name=bart.repo](https://github.com/new?name=&visibility=public&description=by%20bart&template_owner=ywteam&template_name=bart.repo)
+- Fill in the required fields.
+- Click on the "Create repository from template" button.
 
-`https://github.com/new?owner={{ .org.name }}&name={{ .repo.name }}&visibility={{ .repo.visibility }}&description={{ .repo.description }}&template_owner=ywteam&template_name=bart.repo`
+> [See docs how to create a repository from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+
+`https://github.com/new?name=&visibility=public&description=by%20bart&template_owner=ywteam&template_name=bart.repo`
 
 ### Additional Information
 - Make sure to fill in all required fields when creating a new repository from the template.
