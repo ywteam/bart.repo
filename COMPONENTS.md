@@ -308,7 +308,7 @@ Here are the rendered alerts:
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
-
+<!-- endregion Alerts  -->
 
 ## Hiding content with comments
 
@@ -331,7 +331,6 @@ For more information on backslashes, see Daring Fireball's [Markdown Syntax](htt
 > [!NOTE]
 > The Markdown formatting will not be ignored in the title of an issue or a pull request.
 
-<!-- region Alerts  -->
 
 <!-- region OpenAPI -->
 
